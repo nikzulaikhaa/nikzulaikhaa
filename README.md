@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm a **third-year Data Engineering student at Universiti Teknologi Malaysia (UTM)**, passionate about technology, data, and solving real-world problems through innovative solutions. 🚀  
+I'm a **fourth-year Data Engineering student at Universiti Teknologi Malaysia (UTM)**, passionate about technology, data, and solving real-world problems through innovative solutions. 🚀  
 
 I enjoy exploring different aspects of data engineering, from databases to programming, and I'm always eager to learn new technologies.  
 
@@ -8,7 +8,7 @@ I enjoy exploring different aspects of data engineering, from databases to progr
 
 ## 📚 Introduction  
 💬 **Name:** Nik Zulaikhaa Binti Zuraidi Afandi  
-🎂 **Age:** 21  
+🎂 **Age:** 23  
 🌱 **Education:** Currently pursuing a **Bachelor of Data Engineering at UTM**  
 💡 **Aspiration:** To become a skilled data engineer who builds efficient and scalable data solutions  
 📍 **From:** Puchong, Selangor  
